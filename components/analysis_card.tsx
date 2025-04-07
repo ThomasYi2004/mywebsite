@@ -1,5 +1,5 @@
 'use client'
-import {Card, CardHeader, CardBody, CardFooter,Image} from "@heroui/react";
+import {Card, CardHeader, CardBody, Image} from "@heroui/react";
 import { useRouter } from 'next/navigation'
 // import Image from "next/image";
 

@@ -19,13 +19,13 @@ export default function Home() {
           Who am I?
         </h1>
         <p className="text-2xl">
-          I'm currently in my 4th semester of the Computer Science BSc at ETH Zurich.
+          I am currently in my 4th semester of the Computer Science BSc at ETH Zurich.
         </p>
         <p className="text-2xl">
           Here, I want to share my experiences and lessons I learned on the way.
         </p>
         <p className="text-2xl">
-          I'm intersted in many topics of Computer Science, which mostly go in the direction of theoretical Computer Science.
+          I am intersted in many topics of Computer Science, which mostly go in the direction of theoretical Computer Science.
         </p>
         <p className="text-2xl">
           Last semester, I was a TA for Discrete Mathematics and this semester, I am TAing in Analysis I. If you want to learn more about my work as a TA, click on TA on the Header.
